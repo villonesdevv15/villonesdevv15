@@ -13,6 +13,6 @@
    *･｡
       .｡  
 
-- 🌱 I'm currently learning **Python, Javascript, C#, C++**
+- 📖 I'm currently learning **Python & Java**
 
 - ⚡ **I learn online (not currently in a program) age well btw**

@@ -15,4 +15,4 @@
 
 - 📖 I'm currently learning **Python & Java**
 
-- ⚡ **I learn online (not currently in a program) age well btw**
+- ⚡ **I learn online ulol**
